@@ -1,0 +1,14 @@
+{
+  "name": "devopera-doandroid",
+  "version": "0.9.0",
+  "author": "(c) Alex Stanhope, Devopera.com",
+  "summary": "Devopera Android Development configuration module",
+  "license": "Apache License, Version 2.0",
+  "source": "https://github.com/devopera/puppet-doandroid",
+  "project_page": "http://devopera.com/module/doandroid",
+  "issues_url": "https://github.com/devopera/puppet-doandroid/issues",
+  "description": "",
+  "dependencies": [
+    {"name":"devopera/docommon","version_requirement":"0.9.3"}
+  ]
+}

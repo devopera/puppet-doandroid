@@ -1,2 +1,4 @@
-# puppet-doandroid
-Puppet module for configuring an Android development environment
+puppet-doandroid
+================
+
+Devopera puppet module for Android
